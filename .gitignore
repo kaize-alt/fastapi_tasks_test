@@ -110,3 +110,5 @@ venv.bak/
 .mypy_cache/
 
 # Exclude collected Django static files
+
+.idea
